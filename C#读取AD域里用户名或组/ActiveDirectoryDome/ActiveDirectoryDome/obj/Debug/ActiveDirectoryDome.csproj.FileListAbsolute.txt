@@ -13,3 +13,5 @@ C:\Users\QiuJiaLong\Desktop\C#读取AD域里用户名或组\C#读取AD域里用�
 C:\Users\QiuJiaLong\Desktop\C#读取AD域里用户名或组\C#读取AD域里用户名或组\dome\ActiveDirectoryDome\ActiveDirectoryDome\bin\Debug\ActiveDirectoryDome.exe
 C:\Users\QiuJiaLong\Desktop\C#读取AD域里用户名或组\C#读取AD域里用户名或组\dome\ActiveDirectoryDome\ActiveDirectoryDome\bin\Debug\ActiveDirectoryDome.pdb
 C:\Users\QiuJiaLong\Desktop\C#读取AD域里用户名或组\C#读取AD域里用户名或组\dome\ActiveDirectoryDome\ActiveDirectoryDome\obj\Debug\ResolveAssemblyReference.cache
+D:\SourceCode\BaoZD\Documents\Common.Utility\C#读取AD域里用户名或组\ActiveDirectoryDome\ActiveDirectoryDome\obj\Debug\ActiveDirectoryDome.exe
+D:\SourceCode\BaoZD\Documents\Common.Utility\C#读取AD域里用户名或组\ActiveDirectoryDome\ActiveDirectoryDome\obj\Debug\ActiveDirectoryDome.pdb
